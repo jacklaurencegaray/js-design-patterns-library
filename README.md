@@ -3,3 +3,8 @@ Inspired heavily by Andy Osmani's Essential JS Design Patterns [book](https://ad
 
 ### Design Patterns
 Observer (Subject)
+
+TODO:
+Adapter
+Bridge
+Factory
